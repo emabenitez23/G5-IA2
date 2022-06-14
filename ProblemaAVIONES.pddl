@@ -54,15 +54,11 @@
         	(en CARGA_PERECIBLE MEX)
         	(en CARGA_GENERAL BAR)
         	(en CARGA_FRAGIL AER)
-        	(en CARGA_MERCANCIAS_RESTRINGIDAS LIM)  
-    	)
-	)
-)
-
-______________________________________________________________
-
-
+        	(en CARGA_MERCANCIAS_RESTRINGIDAS LIM)
 		(en FB03 MEX)
          	(en AA02 MEX)
          	(en GO01 LIM)
          	(en LA01 BAR)
+    	)
+	)
+)		
